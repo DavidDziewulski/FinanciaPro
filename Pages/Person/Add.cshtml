@@ -1,0 +1,36 @@
+@page
+@model RazorNet.Pages.Person.Add
+
+@{
+    ViewData["Title"] = "Dodaj Osobę";
+}
+
+<h1 class="text-center my-4">Dodaj Osobę</h1>
+
+<form method="post" class="container mt-4 p-4 rounded shadow-sm bg-light">
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <label for="FirstName" class="form-label">Imię</label>
+            <input id="FirstName" name="FirstName" class="form-control" placeholder="Wpisz imię" required />
+        </div>
+        <div class="col-md-6">
+            <label for="LastName" class="form-label">Nazwisko</label>
+            <input id="LastName" name="LastName" class="form-control" placeholder="Wpisz nazwisko" required />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <label for="Position" class="form-label">Stanowisko</label>
+            <input id="Position" name="Position" class="form-control" placeholder="Wpisz stanowisko" required />
+        </div>
+        <div class="col-md-6">
+            <label for="Amount" class="form-label">Kwota</label>
+            <input id="Amount" name="Amount" type="number" step="0.01" class="form-control" placeholder="Wpisz kwotę" required/>
+        </div>
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-success btn-lg px-5">Dodaj</button>
+    </div>
+</form>

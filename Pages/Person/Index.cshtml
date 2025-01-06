@@ -1,0 +1,33 @@
+@page
+@model RazorNet.Pages.Person.Index
+
+@{
+    ViewData["Title"] = "Lista Osób";
+}
+
+<table class="table table-striped table-hover table-bordered shadow-sm">
+    <thead class="thead-dark">
+    <tr>
+        <th scope="col">Imię</th>
+        <th scope="col">Nazwisko</th>
+        <th scope="col">Stanowisko</th>
+        <th scope="col">Kwota</th>
+        <th scope="col">Akcje</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var person in Model.Persons)
+    {
+        <tr>
+            <td>@person.FirstName</td>
+            <td>@person.LastName</td>
+            <td>@person.Position</td>
+            <td>@person.Amount.ToString("C")</td>
+            <td>
+                <a asp-page="/Person/Edit" asp-route-id="@person.Id" class="btn btn-warning btn-sm me-2">Edytuj</a>
+                <a asp-page="/Person/Delete" asp-route-id="@person.Id" class="btn btn-danger btn-sm">Usuń</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

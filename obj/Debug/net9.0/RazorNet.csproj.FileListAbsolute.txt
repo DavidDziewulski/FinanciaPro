@@ -1,0 +1,460 @@
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/appsettings.Development.json
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/appsettings.json
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet.staticwebassets.runtime.json
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet.staticwebassets.endpoints.json
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet.deps.json
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet.runtimeconfig.json
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet.pdb
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/AspectCore.Abstractions.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/AspectCore.Core.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/AspectCore.Extensions.AspectScope.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/AspectCore.Extensions.Configuration.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/AspectCore.Extensions.DependencyInjection.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/AspectCore.Extensions.Reflection.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Aop.AspectCore.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Auditing.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Auditing.Contracts.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Core.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Data.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Data.Sql.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Datas.EntityFramework.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Datas.EntityFramework.SqlServer.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Ddd.Domain.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Logging.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Security.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Uow.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Utils.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Utils.Collections.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Validation.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Bing.Validation.Abstractions.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/SourceLink.Environment.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Humanizer.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Bcl.HashCode.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.CodeDom.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.Linq.Dynamic.Core.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.csproj.AssemblyReference.cache
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.AssemblyInfoInputs.cache
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.AssemblyInfo.cs
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.csproj.CoreCompileInputs.cache
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.MvcApplicationPartsAssemblyInfo.cache
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.RazorAssemblyInfo.cache
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.RazorAssemblyInfo.cs
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.sourcelink.json
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/scopedcss/bundle/RazorNet.styles.css
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/scopedcss/projectbundle/RazorNet.bundle.scp.css
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/oyfxiw62j6-lugek5hnai.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/vjy72iw7p2-61n19gt1b8.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/8p9f68o9t7-fr7q2aak1r.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/uvr58btfvo-bqjiyaj88i.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/ap2jlqchlw-c2jlpeoesf.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/i3150zz6o0-erw9l3u2r3.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/h3liswoezr-aexeepp0ev.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/8brsc18rcd-d7shbmvgxk.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/hu0h9s1dqv-ausgxo2sd3.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/2gsaoy0vs5-k8d9w2qqmf.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/qa35me9rrn-cosvhxvwiu.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/26443tlorn-ub07r2b239.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/n6sphuehju-fvhpjtyr6v.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/32q0tpwnoj-b7pk76d08c.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/cv6i5op4jm-fsbi9cje9m.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/pquktf65my-rzd6atqjts.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/647dmtw2ni-ee0r1s7dh0.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/1rx4g25k7v-dxx9fxp4il.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/5597gi9fvq-jd9uben2k1.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/hkcvkxfbos-khv3u5hwcm.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/yw7xw12h9x-r4e9w2rdcm.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/aknwulhdwf-lcd1t2u6c8.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/qq2akkorjt-c2oey78nd0.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/hm6ern8i1k-tdbxkamptv.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/uma9agsx1r-j5mq2jizvt.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/jxv3yvrnli-06098lyss8.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/86rt3oa6a4-nvvlpmu67g.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/xq1pxy2tg3-s35ty4nyc5.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/fnn76u4vuq-pj5nd1wqec.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/a86igzfhba-46ein0sx1k.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/um06iia5pz-v0zj4ognzu.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/bvt2kckkrr-37tfw0ft22.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/tgol4qrh3h-hrwsygsryq.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/cli9p4go8b-pk9g2wxc8p.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/efpra1e7gy-ft3s53vfgj.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/hbbixkpgkk-6cfz1n2cew.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/kk4kbprp4w-6pdc2jztkx.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/qry9owfomk-493y06b0oq.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/mx8c31k1o3-iovd86k7lj.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/sx1h0v5tag-vr1egmr9el.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/74pse5jxpd-kbrnm935zg.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/89ssfqikfr-jj8uyg4cgr.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/mmwv56bc3w-y7v9cxd14o.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/lrt38e4vzm-notf2xhcfb.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/nrlcdg40h1-h1s4sie4z3.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/cg5fm3klpw-63fj8s7r0e.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/uvmg8ewt82-0j3bgjxly4.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/6nv6nmf45o-47otxtyo56.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/jhmog242bc-4v8eqarkd7.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/0pigh2i9ki-l3n5xuwxn8.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/jucxdtrscu-ilo7uva0vt.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/airk05o90b-qlccset4i1.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/x0zloz86jd-lzl9nlhx6b.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/d8pzzxsaal-ag7o75518u.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/x9pca39uod-xzw0cte36n.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/tln6nr3xni-0i3buxo5is.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/pjmkmj03rh-o1o13a6vjx.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/a257i76afa-ttgo8qnofa.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/y8ejbdu1h8-2z0ns9nrw6.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/u01zcep5bh-muycvpuwrr.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/q1p6sg3fgr-87fc7y1x7t.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/9h4oq980s1-jfsiqqwiad.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/zcme6zguh4-x34xh4g9kx.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/compressed/jugfiywd82-x34xh4g9kx.gz
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets.build.json
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets.development.json
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets/msbuild.RazorNet.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets/msbuild.RazorNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets/msbuild.build.RazorNet.props
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.RazorNet.props
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.RazorNet.props
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.csproj.Up2Date
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/refint/RazorNet.dll
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.pdb
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.genruntimeconfig.cache
+/Users/dawiddziewulski/Documents/Study/Projekt Kino/Cinema/Backend/RazorNet/RazorNet/obj/Debug/net9.0/ref/RazorNet.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/appsettings.Development.json
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/appsettings.json
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet.staticwebassets.endpoints.json
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet.staticwebassets.runtime.json
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet.deps.json
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet.runtimeconfig.json
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/RazorNet.pdb
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Humanizer.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.CodeDom.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.csproj.AssemblyReference.cache
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.AssemblyInfoInputs.cache
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.AssemblyInfo.cs
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.csproj.CoreCompileInputs.cache
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.MvcApplicationPartsAssemblyInfo.cache
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.RazorAssemblyInfo.cache
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.RazorAssemblyInfo.cs
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/scopedcss/bundle/RazorNet.styles.css
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/scopedcss/projectbundle/RazorNet.bundle.scp.css
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/vjy72iw7p2-61n19gt1b8.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/8p9f68o9t7-fr7q2aak1r.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/uvr58btfvo-bqjiyaj88i.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/ap2jlqchlw-c2jlpeoesf.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/i3150zz6o0-erw9l3u2r3.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/h3liswoezr-aexeepp0ev.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/8brsc18rcd-d7shbmvgxk.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/hu0h9s1dqv-ausgxo2sd3.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/2gsaoy0vs5-k8d9w2qqmf.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/qa35me9rrn-cosvhxvwiu.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/26443tlorn-ub07r2b239.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/n6sphuehju-fvhpjtyr6v.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/32q0tpwnoj-b7pk76d08c.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/cv6i5op4jm-fsbi9cje9m.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/pquktf65my-rzd6atqjts.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/647dmtw2ni-ee0r1s7dh0.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/1rx4g25k7v-dxx9fxp4il.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/5597gi9fvq-jd9uben2k1.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/hkcvkxfbos-khv3u5hwcm.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/yw7xw12h9x-r4e9w2rdcm.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/aknwulhdwf-lcd1t2u6c8.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/qq2akkorjt-c2oey78nd0.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/hm6ern8i1k-tdbxkamptv.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/uma9agsx1r-j5mq2jizvt.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/jxv3yvrnli-06098lyss8.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/86rt3oa6a4-nvvlpmu67g.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/xq1pxy2tg3-s35ty4nyc5.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/fnn76u4vuq-pj5nd1wqec.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/a86igzfhba-46ein0sx1k.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/um06iia5pz-v0zj4ognzu.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/bvt2kckkrr-37tfw0ft22.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/tgol4qrh3h-hrwsygsryq.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/cli9p4go8b-pk9g2wxc8p.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/efpra1e7gy-ft3s53vfgj.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/hbbixkpgkk-6cfz1n2cew.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/kk4kbprp4w-6pdc2jztkx.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/qry9owfomk-493y06b0oq.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/mx8c31k1o3-iovd86k7lj.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/sx1h0v5tag-vr1egmr9el.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/74pse5jxpd-kbrnm935zg.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/89ssfqikfr-jj8uyg4cgr.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/mmwv56bc3w-y7v9cxd14o.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/lrt38e4vzm-notf2xhcfb.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/nrlcdg40h1-h1s4sie4z3.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/cg5fm3klpw-63fj8s7r0e.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/uvmg8ewt82-0j3bgjxly4.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/6nv6nmf45o-47otxtyo56.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/jhmog242bc-4v8eqarkd7.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/0pigh2i9ki-l3n5xuwxn8.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/jucxdtrscu-ilo7uva0vt.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/airk05o90b-qlccset4i1.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/x0zloz86jd-lzl9nlhx6b.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/d8pzzxsaal-ag7o75518u.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/x9pca39uod-xzw0cte36n.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/tln6nr3xni-0i3buxo5is.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/pjmkmj03rh-o1o13a6vjx.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/a257i76afa-ttgo8qnofa.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/y8ejbdu1h8-2z0ns9nrw6.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/u01zcep5bh-muycvpuwrr.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/q1p6sg3fgr-87fc7y1x7t.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/9h4oq980s1-jfsiqqwiad.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/zcme6zguh4-x34xh4g9kx.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/jugfiywd82-x34xh4g9kx.gz
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets.build.json
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets.development.json
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets/msbuild.RazorNet.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets/msbuild.RazorNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets/msbuild.build.RazorNet.props
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.RazorNet.props
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.RazorNet.props
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.csproj.Up2Date
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/refint/RazorNet.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.pdb
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/RazorNet.genruntimeconfig.cache
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/ref/RazorNet.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Azure.Core.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Azure.Identity.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.ClientModel.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/dawiddziewulski/Documents/Study/aspnet/RazorNet/RazorNet/obj/Debug/net9.0/compressed/oyfxiw62j6-9w6brmpy3r.gz

@@ -1,0 +1,44 @@
+﻿@* @page *@
+@* @model IndexModel *@
+@* @{ *@
+@*     ViewData["Title"] = "Lista Płac"; *@
+@* } *@
+@* *@
+@* <div class="text-center"> *@
+@*     <h1 class="display-4">Cześć</h1> *@
+@* </div> *@
+
+
+@page
+@model RazorNet.Pages.IndexModel
+@{
+    ViewData["Title"] = "FinanciaPro - Twój Partner w Księgowości";
+}
+<div class="hero-banner">
+    <div>
+        <h1>Witaj w FinanciaPro</h1>
+        <p>Twoje kompleksowe rozwiązanie księgowe. Zarządzaj płacami, śledź wydatki i kontroluj finanse z łatwością.</p>
+        <a href="/Person/Index" class="btn btn-primary btn-lg">Zarządzaj Osobami</a>
+    </div>
+</div>
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <img src="~/images/section1.jpeg" alt="Zarządzanie Płacami">
+                <h3>Zarządzanie Płacami</h3>
+                <p>Efektywnie zarządzaj płacami swoich pracowników, automatyzując procesy i minimalizując błędy.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="~/images/section2.jpg" alt="Śledzenie Wydatków">
+                <h3>Śledzenie Wydatków</h3>
+                <p>Monitoruj wydatki firmy w czasie rzeczywistym, aby podejmować świadome decyzje finansowe.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="~/images/section3.webp" alt="Raporty Finansowe">
+                <h3>Raporty Finansowe</h3>
+                <p>Generuj szczegółowe raporty finansowe, które pomogą Ci zrozumieć kondycję finansową Twojej firmy.</p>
+            </div>
+        </div>
+    </div>
+</div>
